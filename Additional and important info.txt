@@ -1,0 +1,3 @@
+https://davthecoder.medium.com/android-intentservice-or-jobscheduler-use-jobintentservice-instead-part-1-90e70646d68b
+
+https://stackoverflow.com/questions/53252792/what-are-differences-between-jobintentservice-and-intentservice
